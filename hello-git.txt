@@ -2,6 +2,7 @@ hellooooooooooooooooooooooooooooooooo
 henlow henlowwwwwwwwww
 hiii hiii hiii hiii
 no no no no no no no no no no no no no no no
+yes yes yes yes yes yes yes yes yes yes yes
 
 Start a new repo:			git init
 Clone an existing repo:			git clone <repo-url>
