@@ -6,6 +6,14 @@ yes yes yes yes yes yes yes yes yes yes yes
 i'm merging
 dadadadadadad
 
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/username/repo.git
+git push -u origin main
+
+
 Start a new repo:			git init
 Clone an existing repo:			git clone <repo-url>
 Check repo status:			git status
